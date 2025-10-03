@@ -31,6 +31,12 @@ Key Features:=
 
 # Q-A_Chat-Boat_using_LLMs
 
+```bash
+# Run command of this project
+streamlit run app.py
+
+```
+
 
 ```bash
 conda create -n QA_chat python=3.10 -y
